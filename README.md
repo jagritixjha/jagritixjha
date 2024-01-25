@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jagriti Jha</h1>
 <h3 align="center">Jammin' Fresh Lingo for Software Fun!</h3>
 
+
 - 🌱 I’m currently learning **C & C++**
 
 - 📫 How to reach me **im.jagriti.jha@gmail.com**
