@@ -6,14 +6,11 @@ I'm on a coding journey, currently swept away by the Flutter wave 🌊.<br> I be
 🌱 **Learning:** Flutter, to build seamless and dynamic apps.  
 📫 **Reach Me:** im.jagriti.jha@gmail.com.  
 ⚡ **Fun Fact:** Recursive thinker in a loop of learning. ➰
-
-
 <!--
 ### 🤝 Connect with me:
 
 *(Consider adding your LinkedIn, Twitter, or other social links here)*
 -->
-
 ### 🛠️ Languages and Tools
 [![My Skills](https://skills.thijs.gg/icons?i=c,cpp,py,figma,dart,flutter)](https://skills.thijs.gg)
 
@@ -22,6 +19,5 @@ I'm on a coding journey, currently swept away by the Flutter wave 🌊.<br> I be
 
 ### 🔥 Contribution Streak
 ![Jagriti's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jagritixjha&theme=vision-friendly-dark)
-
 
 *Grateful for your interest! Let's make impactful strides in tech.*
