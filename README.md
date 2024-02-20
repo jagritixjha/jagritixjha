@@ -1,26 +1,27 @@
-<h1 align="center">Hi 👋, I'm Jagriti Jha</h1>
-<h3 align="center">Jammin' Fresh Lingo for Software Fun!</h3>
+<h1 align="center">👋 Hello, I'm Jagriti Jha</h1>
+<h3 align="center">Crafting Code & Exploring Software Realms with a Dash of Fun!</h3>
 
+I'm on a coding journey, currently swept away by the Flutter wave 🌊. I believe in learning by doing, and Flutter has been my latest playground. Besides coding, I'm on a quest to make technology both fun and impactful.
 
-- 🌱 I’m currently learning **Flutter**
+🌱 **Learning:** Flutter, to build seamless and dynamic apps.  
+📫 **Reach Me:** im.jagriti.jha@gmail.com.  
+⚡ **Fun Fact:** Recursive thinker in a loop of learning. ➰
 
-- 📫 How to reach me **im.jagriti.jha@gmail.com**
-
-- ⚡ Fun fact **I think I'm intelligent ^_-**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=jagritixjha&show_icons=true&theme=midnight-purple&locale=en&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jagritixjha&theme=vision-friendly-dark)<br/>
 
 <!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagritixjha&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="jagritixjha" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jagritixjha&show_icons=true&theme=midnight-purple&locale=en" alt="jagritixjha" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagritixjha&theme=vision-friendly-dark" alt="jagritixjha" /></p>
+### 🤝 Connect with me:
+
+*(Consider adding your LinkedIn, Twitter, or other social links here)*
 -->
+
+### 🛠️ Languages and Tools
+[![My Skills](https://skills.thijs.gg/icons?i=c,cpp,py,figma,dart,flutter)](https://skills.thijs.gg)
+
+### 📚 Language Preferences
+![Jagriti's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jagritixjha&show_icons=true&theme=midnight-purple&locale=en&layout=compact)
+
+### 🔥 Contribution Streak
+![Jagriti's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jagritixjha&theme=vision-friendly-dark)
+
+
+*Grateful for your interest! Let's make impactful strides in tech.*
