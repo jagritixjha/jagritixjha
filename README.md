@@ -2,7 +2,7 @@
 <h3 align="center">Jammin' Fresh Lingo for Software Fun!</h3>
 
 
-- 🌱 I’m currently learning **C & C++**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **im.jagriti.jha@gmail.com**
 
