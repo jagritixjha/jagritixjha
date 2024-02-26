@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hello, I'm Jagriti Jha</h1>
 <h3 align="center">Crafting Code & Exploring Software Realms with a Dash of Fun!</h3>
 
-I'm on a coding journey, currently swept away by the Flutter wave 🌊.<br> I believe in learning by doing, and Flutter has been my latest playground.<br>Besides coding, I'm on a quest to make technology both fun and impactful.
+Exploring Flutter, intent on enriching education through tech advancements.
 
 🌱 **Learning:** Flutter, to build seamless and dynamic apps.  
 📫 **Reach Me:** im.jagriti.jha@gmail.com.  
-⚡ **Fun Fact:** Recursive thinker in a loop of learning. ➰
+⚡ **Fun Fact:** Recursive thinker in a loop of learning.👾
 <!--
 ### 🤝 Connect with me:
 
