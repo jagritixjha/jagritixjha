@@ -12,7 +12,7 @@ Exploring Flutter, intent on enriching education through tech advancements.
 *(Consider adding your LinkedIn, Twitter, or other social links here)*
 -->
 ### 🛠️ Languages and Tools
-[![My Skills](https://skills.thijs.gg/icons?i=c,cpp,py,figma,dart,flutter)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,figma,dart,flutter)](https://skillicons.dev)
 
 ### 📚 Language Preferences
 ![Jagriti's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jagritixjha&show_icons=true&theme=midnight-purple&locale=en&layout=compact)
