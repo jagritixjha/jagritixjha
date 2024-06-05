@@ -5,7 +5,9 @@ Exploring Flutter, intent on enriching education through tech advancements.
 
 🌱 **Learning:** Flutter, to build seamless and dynamic apps.  
 📫 **Reach Me:** im.jagriti.jha@gmail.com.  
-⚡ **Fun Fact:** Recursive thinker in a loop of learning.👾
+😄 **Pronouns:** She/her  
+⚡ **Fun Fact:** Recursive thinker in a loop of learning.👾  
+
 <!--
 ### 🤝 Connect with me:
 
@@ -14,9 +16,10 @@ Exploring Flutter, intent on enriching education through tech advancements.
 ### 🛠️ Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,figma,dart,flutter)](https://skillicons.dev)
 
+<!--
 ### 📚 Language Preferences
 ![Jagriti's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jagritixjha&show_icons=true&theme=midnight-purple&locale=en&layout=compact)
-
+-->
 ### 🔥 Contribution Streak
 ![Jagriti's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jagritixjha&theme=vision-friendly-dark)
 
