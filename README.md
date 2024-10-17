@@ -19,8 +19,8 @@ Exploring Flutter, intent on enriching education through tech advancements.
 <!--
 ### 📚 Language Preferences
 ![Jagriti's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jagritixjha&show_icons=true&theme=midnight-purple&locale=en&layout=compact)
--->
 ### 🔥 Contribution Streak
 ![Jagriti's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jagritixjha&theme=vision-friendly-dark)
+-->
 
 *Grateful for your interest! Let's make impactful strides in tech.*
