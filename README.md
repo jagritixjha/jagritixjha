@@ -3,10 +3,10 @@
 
 Exploring Flutter, intent on enriching education through tech advancements.
 
-🌱 **Learning:** Flutter, to build seamless and dynamic apps.  
-📫 **Reach Me:** im.jagriti.jha@gmail.com.  
-😄 **Pronouns:** She/her  
-⚡ **Fun Fact:** Recursive thinker in a loop of learning.👾  
+- 🌱 **Learning:** Flutter, to build seamless and dynamic apps.  
+- 📫 **Reach Me:** im.jagriti.jha@gmail.com.  
+- 😄 **Pronouns:** She/her  
+- ⚡ **Fun Fact:** Recursive thinker in a loop of learning.👾  
 
 <!--
 ### 🤝 Connect with me:
