@@ -16,6 +16,9 @@ Exploring Flutter, intent on enriching education through tech advancements.
 ### 🛠️ Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,figma,dart,flutter)](https://skillicons.dev)
 
+### 🔥 Contribution Streak
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=jagritixjha&theme=highContrast)
+
 <!--
 ### 📚 Language Preferences
 ![Jagriti's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jagritixjha&show_icons=true&theme=midnight-purple&locale=en&layout=compact)
